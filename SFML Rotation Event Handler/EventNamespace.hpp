@@ -14,7 +14,9 @@ namespace Eve {
 #ifndef _WIN32
 #error Eve only works on windows
 #endif // !_WIN32
-
+	enum class  Objects {
+		TextBox = 0
+	};
 	
 
 	enum class EventType {

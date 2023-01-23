@@ -20,8 +20,7 @@ private:
 };
 struct Eve::Event_Reactive_Interface: public Object_Interface {
 public:
-	
-
+	//keep the virtual functions draw and update unimplemented
 
 };
 
